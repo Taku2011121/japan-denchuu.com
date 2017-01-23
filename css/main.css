@@ -1,0 +1,373 @@
+@charset "UTF-8";
+
+/* format */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+/*html, body{
+	width: 100%;
+	height: 100%;
+}*/
+
+body.noscroll {
+  position: fixed;
+  overflow-y: scroll;
+}
+
+.header,.main,.footer,img,svg {
+    width: 100%;
+}
+
+ol,ul,li{
+	list-style: none;
+}
+/* format */
+
+/* sns share */
+#footer {
+		bottom: 0px;
+		position:fixed;
+		height: 40px;
+		display:block;
+		width: 100%;
+		z-index:100;
+		text-align:center;
+		
+	}
+
+.share-button{
+	top: 50%;
+	height: 40px;
+	width: 25%;
+	cursor: pointer;
+	padding: 1% 0% 1%;
+}
+
+#facebook {
+	color: #FFFFFF;
+	background-color: #3B5999;
+	}
+#twitter {
+	
+	background-color: #55acee;
+}
+#tumblr{
+	color: #FFFFFF;
+	background-color: #36465D;
+}
+#insta{
+	
+	background-color: #666867;
+}
+div ul li{
+	float: left;  
+    text-align: center; 
+}
+div ul li svg {
+	height: 80%;
+	width: 80%; 
+}
+
+#sns-share:after {
+	content: ".";
+    clear: both;
+    height: 0;
+    display: block;
+    visibility: hidden;
+}
+
+#sns-share{
+	display: inline-block;
+	display: block;
+	
+}
+
+.sns-logo{fill:#fff;}
+/* sns share */
+
+/* header button */
+
+.button_container{
+	position: fixed;
+	top: 2%;
+	right: 2%;
+	height: 50px;
+	width: 50px;
+	cursor: pointer;
+	z-index: 100;
+}
+
+#overlay{
+	display: none;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	position: fixed;
+	top: 0;
+	z-index: 100;
+	background: rgba(148,203,231,1.00)
+	
+}
+
+
+#close{
+	position: fixed;
+	top: 2%;
+	right: 2%;
+	height: 50px;
+	width: 50px;
+	cursor: pointer;
+	z-index: 150;
+}
+
+nav li a {
+    position: relative;
+	height: 50%;
+    top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+    text-align: center;
+    z-index: 100;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 40px;
+    font-weight: 400;
+	 }
+#menu{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0; 
+	margin: auto;
+	height: 50%;
+	
+}
+
+.lang {
+	float: left;
+}
+/* header button */
+
+.img{
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	
+}
+
+/* map */
+#map-button{
+	position: fixed;
+	top: 2%;
+	left: 2%;
+	height: 55px;
+	width: 55px;
+	cursor: pointer;
+	z-index: 200;
+}
+#map-close{
+	position: fixed;
+	top: 2%;
+	right: 2%;
+	height: 50px;
+	width: 50px;
+	cursor: pointer;
+	z-index: 310;
+}
+#map-menu{
+	display: none;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	position: fixed;
+	top: 0;
+	z-index: 250;
+	background: rgba(255,255,255,.90);
+}
+#map{
+	display: none;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	top: 0;
+	z-index: 300;
+	max-width: none;
+	
+}
+#capture{
+	padding: 5% 2% 5%;
+	display: none;
+	position: fixed;
+	height: 200px;
+	width: 100%;
+	overflow:auto;
+	background-color: #ECECFB;
+	border: thin solid #333;
+	/*border-left: none; */
+	bottom: 0;
+	z-index: 400;
+}
+#capture br {
+	display: none;
+}
+#capture img {
+	padding: 5% 1% 5%;
+	float: left;
+	height: 30%;
+	width: 30%;
+}
+
+
+/*section setting*/
+.section{
+	background-size: cover;
+	background-color: #A0DAF8;
+	text-align: center;
+	
+}
+
+/*///////// sec0 home /////////*/
+
+#main-ligo{
+	height: 250px;
+	width: auto;
+}
+
+/*///////// sec1 denchuu /////////*/
+
+#denchuu p {
+	padding: 1% 2% 1%;
+}
+
+/*///////// sec2 parts /////////*/
+
+/* blinking FX */
+.blinking{
+    -webkit-animation:blink 2.0s ease-in-out infinite alternate;
+    -moz-animation:blink 2.0s ease-in-out infinite alternate;
+    animation:blink 2.0s ease-in-out infinite alternate;
+}
+@-webkit-keyframes blink{
+    0% {opacity: .8;}
+    100% {opacity: .3}
+}
+@-moz-keyframes blink{
+    0% {opacity: .8;}
+    100% {opacity: .3}
+}
+@keyframes blink{
+    0% {opacity: .8;}
+    100% {opacity: .3}
+}
+/* parts menu */
+#parts-menu{
+	display: none;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	position: fixed;
+	top: 0px;
+	z-index: 300;
+	overflow: auto;
+	background: rgba(255,255,255,.95)
+}
+#close-parts{
+	position: fixed;
+	top: 1%;
+	right: 2%;
+	height: 50px;
+	width: 50px;
+	cursor: pointer;
+	z-index: 350;
+
+
+}
+
+#supporter,#pole,#trance,#gaisi {
+	cursor: pointer;
+}
+
+#supporter-menu,#pole-menu,#trance-menu,#gaisi-menu {
+	display: none;
+	padding: 20% 10% 20%;
+}
+.parts-icons {
+	margin: 0 auto;
+	padding: 2%;
+	width: 30%;
+	height: 30%;
+	font-size: 80%;
+	text-align: center;
+	align-items: center;
+	
+}
+.icon-box {
+	display: inline-flex;
+	justify-content: space-around;
+}
+.parts-desc {
+	padding: 5%;
+}
+#parts-pic {
+	width: 100%;
+	height: 80%;
+}
+.fill-1 {
+	fill:#231815;
+}
+.fill-2 {
+	fill:#fff;
+}
+
+/*///////// sec3 gallery /////////*/
+
+#photos {
+	/*display: flex;
+	justify-content: space-around;*/
+	/*width: 80%;
+	height: 70%;*/
+	margin: 3%;
+	
+}
+#photos img { 
+	/*align-items: center; 
+    text-align: center;*/
+    width: 25%;
+    height:25%;
+    cursor: pointer;
+
+}
+
+
+
+/*//////// media query /////////*/
+@media (max-width: 378px){
+	#home {
+	background-image: url(http://japan-denchuu.com/img/bg0.png);
+	}
+	#denchuu {
+	background-image: url(http://japan-denchuu.com/img/bg1.png);
+	}
+	#parts {
+	background-image: url(http://japan-denchuu.com/img/bg2.png);
+	}
+}
+
+}
+
+@media (min-width: 379px){
+	#home {
+	background-image: url(http://japan-denchuu.com/img/bg0-2.png);
+	}
+	#denchuu {
+	background-image: url(http://japan-denchuu.com/img/bg1-2.png);
+	}
+	#parts {
+	background-image: url(http://japan-denchuu.com/img/bg2-2.png);
+	}
+}

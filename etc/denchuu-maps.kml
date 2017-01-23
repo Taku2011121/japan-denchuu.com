@@ -1,0 +1,922 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>電柱マップ</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>無題のレイヤ</name>
+			<Placemark>
+				<name>ポイント 4</name>
+				<styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7024415,35.6881672,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>電柱
+</name>
+				<description><![CDATA[高圧クランプがいし、高圧トランス、耐張がいし]]></description>
+				<styleUrl>#icon-1535-0288D1</styleUrl>
+				<Point>
+					<coordinates>139.7023872,35.6887075,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 7</name>
+				<styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7026205,35.698118,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 8</name>
+				<styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7001743,35.696114,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 9</name>
+				<styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7046375,35.6957829,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 10</name>
+				<styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6963549,35.6916005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 11</name>
+				<styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6976638,35.6872958,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 12</name>
+				<styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7031355,35.6872087,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 13</name>
+				<styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7062683,35.6894046,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 15</name>
+				<styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7056675,35.692559,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 16</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7045222,35.6955346,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 20</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7051015,35.6953843,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 21</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7052088,35.6958766,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 28</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7038704,35.6950815,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 29</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7034118,35.6956195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 50</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7016522,35.6976366,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 57</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.700464,35.6973251,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 77</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7002923,35.6956696,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 103</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7003688,35.6951054,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 118</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7005324,35.694379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 124</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7009857,35.693866,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 156</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7021538,35.6947351,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 172</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7031167,35.6940097,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 173</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7029343,35.6936743,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 184</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7023255,35.6952688,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 185</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7032267,35.6945718,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 189</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.703114,35.6975691,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 191</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7038382,35.6974732,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 194</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7042406,35.697752,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 197</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7049808,35.6974907,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 199</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.705984,35.697421,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 205</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7064936,35.6965845,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 206</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.706279,35.6956696,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 210</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7061986,35.6949421,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 212</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7012204,35.6931297,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 214</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7007805,35.6926025,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 215</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7005498,35.693195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 216</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7017622,35.6926156,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 217</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7021002,35.6930382,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 220</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7029853,35.6927289,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 222</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7028244,35.6924195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 226</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7023201,35.6912955,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 228</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7019017,35.691265,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 230</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7028404,35.6907683,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 231</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.703334,35.6911386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 232</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7021806,35.6906376,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 234</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7028136,35.6902629,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 235</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7022343,35.690215,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 236</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7025883,35.6897532,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 237</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7039723,35.690411,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 238</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7033125,35.6905548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 239</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7036827,35.6899361,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 240</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7027332,35.6880017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 241</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6980071,35.6900494,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 242</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6975619,35.6900233,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 243</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.697063,35.6899884,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 244</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.697476,35.6893262,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 245</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6970415,35.6885593,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 246</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6965855,35.6892782,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 247</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.695518,35.6891083,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 248</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.696328,35.6886726,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 249</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6952659,35.6898839,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 250</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6960276,35.6894133,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 251</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6964031,35.6918575,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 252</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.694649,35.6923542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 253</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6948904,35.6912345,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 159</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7041762,35.6922627,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 160</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7045732,35.6929598,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 161</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7042137,35.693683,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 162</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7038811,35.6938573,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 164</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7058606,35.6922366,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 166</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7057641,35.6916615,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 168</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7055548,35.691021,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 170</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7054744,35.6901017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 171</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6984389,35.6928748,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 172</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6985972,35.6931014,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 173</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6985355,35.6934238,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 174</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6978408,35.6933105,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 175</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6975753,35.6931602,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 176</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6976021,35.6930121,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 177</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6967009,35.6934325,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 178</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6969798,35.6935153,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 179</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6971676,35.6940032,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 180</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6976638,35.694489,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 181</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6981385,35.6942385,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 182</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6984604,35.6946611,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 184</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7014725,35.6953472,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 185</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.697696,35.6886901,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 186</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6982646,35.6877315,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 187</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6990156,35.6880801,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 188</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7031194,35.6901605,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 189</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7043961,35.6904764,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 190</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7062629,35.6916092,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 192</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7052008,35.6911779,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 193</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7065794,35.6902281,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 194</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7029477,35.6885147,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 195</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7026996,35.6892118,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 196</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7037417,35.6965801,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 198</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7058284,35.696554,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 199</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7024488,35.6964756,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 200</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7046858,35.6969679,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 202</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7034144,35.6970071,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 207</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.7007966,35.6967936,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 210</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6982244,35.6952165,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 211</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6979508,35.6956021,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 213</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6990666,35.6949617,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 215</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6987045,35.6960378,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ポイント 216</name>
+				<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>139.6982726,35.6962752,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1535-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1535-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1535-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1535-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1535-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1899-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1899-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-F9A825-nodesc-normal'>
+			<IconStyle>
+				<color>ff25A8F9</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1899-F9A825-nodesc-highlight'>
+			<IconStyle>
+				<color>ff25A8F9</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1899-F9A825-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-F9A825-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-F9A825-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
